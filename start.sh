@@ -1,0 +1,1 @@
+ qemu-system-i386 -drive file=os.img,format=raw,if=floppy

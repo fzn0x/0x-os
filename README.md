@@ -8,10 +8,10 @@ BITS 16 Based Operating System
 - [x] Kernel
 - [x] CLI
 - [x] Reads User Input (backspace, enter, etc)
-- [] I/O operations (able to output result for necessary inputs)
-- [] Filesystem
-- [] Device Drivers
-- [] Internet
+- [ ] I/O operations (able to output result for necessary inputs)
+- [ ] Filesystem
+- [ ] Device Drivers
+- [ ] Internet
 
 > Make Operating System as Simple as Possible.
 

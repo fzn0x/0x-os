@@ -1,5 +1,8 @@
 # 0x OS
 
+> [!WARNING]
+> This package is still a work in progress.
+
 BITS 16 Based Operating System
 
 ## TODO
